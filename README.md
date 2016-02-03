@@ -1,0 +1,2 @@
+# sinaWeibNavigation
+仿新浪微博的导航条随着移动距离的改变显隐
